@@ -8,3 +8,5 @@ There are multiple words files in Resources folder which are separated with '+' 
 User enter letters and the application generates all available meaningful words based on that letters and save them on selected directory.
 
 I tested this application on PC and Android, but I think it works on other platforms too.
+
+I use Unity3d for this project :).
