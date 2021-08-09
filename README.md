@@ -1,5 +1,5 @@
 # Word-Finder
-Generate words with user's entered letters
+Generate words with the user's entered letters
 
 Currently, added 3 languages. (Persian, English and Arabic).
 
